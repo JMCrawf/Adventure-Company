@@ -22,7 +22,7 @@
 /* Top half */
 
 body {
-	background-color: #eed;
+	background-color: #eee;
 }
 
 #header-region {
@@ -165,7 +165,7 @@ body {
 
 .footer {
 	padding: 40px 30px 20px 20px;
-	border-top: 50px solid #eed;
+	border-top: 50px solid #eee;
 	background-color: #444;
 	height: 160px;
 
