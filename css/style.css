@@ -1,6 +1,6 @@
 /* Logo adjustments */
 
-#logo{
+#logo {
 	height: auto;
 	width: 60%;
 	position: 'relative';
@@ -21,7 +21,7 @@
 
 /* Top half */
 
-body{
+body {
 	background-color: #eed;
 }
 
@@ -66,24 +66,23 @@ body{
 .description {
 	text-align: left;
 	color: #000;
-	font-size: 1.4em;
 	font-weight: 500;
 }
 
 /* carousel tweaks */
 
-.outer-carousel{
+.outer-carousel {
 	padding: 23px 5px 0px 0px;
 	margin: auto;
 }
 
-.carousel-control-prev{
+.carousel-control-prev {
 	font-size: 30px;
 	color:white;
 	text-shadow: 3px 3px 5px rgba(0,0,0,1);
 }
 
-.carousel-control-next{
+.carousel-control-next {
 	font-size: 33px;
 	color:white;
 	text-shadow: 3px 3px 5px rgba(0,0,0,1);
@@ -120,7 +119,7 @@ body{
 
 /* card signup form */
 
-.outer-form{
+.outer-form {
 	padding: 0px;
 	
 }
@@ -138,7 +137,7 @@ body{
 	padding-top: 0px;
 }
 
-.card-footer{
+.card-footer {
 	margin-bottom: 10px;
 
 }
@@ -147,7 +146,7 @@ body{
 	font-size: 1em;
 }
 
-.card button{
+.card button {
 	margin: 0px 5px 0px 5px;
 	font-size: 1em;
 }
@@ -164,17 +163,16 @@ body{
 
 /* footer adjustments */
 
-.footer{
-	padding-top: 40px;
-	padding-bottom: 20px;
+.footer {
+	padding: 40px 30px 20px 20px;
 	border-top: 50px solid #eed;
 	background-color: #444;
-	font-size: 1.2em;
 	height: 160px;
 
 }
 .footer li {
 	transition: 1s ease-in-out;
+	padding-top: 2px;
 }
 
 .footer li:hover {
@@ -183,4 +181,8 @@ body{
 
 .copyright {
 	padding-top: 4px;
+}
+
+.sitelink a {
+	color: #99f !important;
 }
