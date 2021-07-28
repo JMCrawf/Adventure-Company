@@ -1,36 +1,33 @@
-
 /* settings for the submit form page */
 
 body {
-	overflow: hidden;
+  overflow: hidden;
 }
 
-#logo{
-	height: auto;
+#logo {
+  height: auto;
 }
 
-.index-page .page-header .container>.content-center {
-	top: 40%;
-	
+.index-page .page-header .container > .content-center {
+  top: 40%;
 }
 
 .h1-seo-submit {
-	font-size: 2.3em !important;
-	font-weight: 300;
-	text-shadow: 3px 3px 5px rgba(0,0,0,1);
-	margin-bottom: 0px;
+  font-size: 2.8em !important;
+  font-weight: 300;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 1);
+  margin-bottom: 0px;
 }
 .thanks {
-	font-size: 2em;
-	font-color: white !important;
-	font-weight: 300;
-	text-shadow: 3px 3px 5px rgba(0,0,0,1);
+  font-size: 2em;
+  font-color: white !important;
+  font-weight: 300;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 1);
 }
 
-.btn-round{
-	font-size: 0.5em;
-	border:;
+.btn-round {
+  font-size: 0.5em;
+  border: ;
 }
 
 /* end form submit settings */
-
